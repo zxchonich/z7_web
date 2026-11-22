@@ -1,0 +1,9 @@
+body { font-family: Arial, sans-serif; max-width: 900px; margin: 30px auto; padding: 0 20px; color: #1f2937; }
+h1 { margin-bottom: 4px; }
+.subtitle { color: #6b7280; margin-top: 0; }
+table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+th, td { text-align: left; padding: 10px 12px; border-bottom: 1px solid #e5e7eb; }
+thead th { background: #4f46e5; color: #fff; }
+tbody tr:nth-child(even) { background: #f3f4f6; }   /* смугасті рядки (table strip) */
+tbody tr:hover { background: #e0e7ff; }
+.error { color: #b91c1c; font-weight: 600; margin-top: 20px; }
